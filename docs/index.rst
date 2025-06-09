@@ -1,6 +1,4 @@
-Welcome to My HTML Docs
-========================
+Welcome to UHC Card Docs
+=========================
 
-Here is a direct link to the HTML page:
-
-`Open HTML Page <html/index.html>`_
+`Open UHC Card Page <html/index.html>`_
