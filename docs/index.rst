@@ -1,6 +1,7 @@
-Welcome to UHC Card Docs
-=========================
+.. raw:: html
 
-This site uses custom HTML. Click below:
-
-`👉 Go to the homepage <index.html>`_
+   <script>
+     if (window.location.pathname === "/en/latest/") {
+       window.location.href = "index.html";
+     }
+   </script>
