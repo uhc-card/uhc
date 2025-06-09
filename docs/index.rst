@@ -1,8 +1,6 @@
-.. raw:: html
+Welcome to UHC Card Docs
+=========================
 
-   <script>
-     window.location.href = "index.html";
-   </script>
-   <noscript>
-     <meta http-equiv="refresh" content="0; url=index.html">
-   </noscript>
+This site uses custom HTML. Click below:
+
+`👉 Go to the homepage <index.html>`_
