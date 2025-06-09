@@ -6,7 +6,7 @@ build:
     python: "3.10"
 
 sphinx:
-  configuration: docs/conf.py   # ← This is what you're missing!
+  configuration: docs/conf.py   # 👈 tells RTD to build from /docs
 
 python:
   install:
