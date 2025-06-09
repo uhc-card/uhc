@@ -1,4 +1,3 @@
-# conf.py
 project = 'UHC Card'
 author = 'UHC Card'
 release = '1.0.0'
@@ -9,7 +8,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-html_extra_path = ['.']
+html_extra_path = ['.']  # 👈 MUST be here
 
 html_show_sourcelink = False
 html_theme_options = {
